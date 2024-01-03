@@ -1,1 +1,1 @@
-Circle area=[straight side² × (100% -25%) + 2 × radius²]×360°
+Circle area=[straight side² × (100% -25%) + 2 × radius²]×∞rotation
