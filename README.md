@@ -1,1 +1,3 @@
-Circle area=[straight side² × (100% -25%) + 2 × radius²]×∞Rotation speed
+A1=lado²
+A2= A1 * 0,25
+A1-4*A2
